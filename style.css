@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contactform {
+    box-shadow: 0 0 4px 0 rgba(0,0,0,0.5);
+    margin: 50px auto;
+    width: 350px;
+    text-align: center;
+}
+
+.contactform input {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+    padding: 15px;
+}
+
+.contactform textarea {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+    padding: 15px;
+
+}
+
+.contactform button {
+    background-color: orange;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    width: 200px;
+    padding:15px;
+    cursor: pointer;
+}
+
+.contactform h2 {
+    background-color: #efefef;
+}
+
+
